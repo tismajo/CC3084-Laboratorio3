@@ -1,0 +1,6 @@
+archivo,letra_real,letra_predicha,confianza,correcto
+U_Mejia.png,U,U,0.7183306,True
+V_Mejia.png,V,K,0.7405041,False
+W_Mejia.png,W,W,0.99416006,True
+X_Mejia.png,X,X,0.47529656,True
+Y_Mejia.png,Y,Y,0.999997,True
