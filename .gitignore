@@ -1,2 +1,4 @@
 *.jpg
 *.zip
+*.npy
+*.pt
